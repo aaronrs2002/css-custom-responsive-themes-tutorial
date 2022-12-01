@@ -1,7 +1,6 @@
-# css-custom-responsive-themes-tutorial
-css-custom-responsive-themes-tutorial
+# CSS Tutorial: Custom themes with responsive design - By: Aaron Smith - Web-Presence LLC
 
-#VIEW THE 28 MINUTE TUTORIAL
+#VIEW THE 28 MINUTE TUTORIAL: https://youtu.be/65gwEIyfgrY
 
 00:48 - Build static HTML page
 
